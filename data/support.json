@@ -388,15 +388,15 @@
     "speakers": 13869000,
     "name": "North Azerbaijani",
     "iso6393": "azj",
-    "udhr": "azj_latn",
-    "script": "Latin"
+    "udhr": "azj_cyrl",
+    "script": "Cyrillic"
   },
   {
     "speakers": 13869000,
     "name": "North Azerbaijani",
     "iso6393": "azj",
-    "udhr": "azj_cyrl",
-    "script": "Cyrillic"
+    "udhr": "azj_latn",
+    "script": "Latin"
   },
   {
     "speakers": 13218000,
@@ -528,15 +528,15 @@
     "speakers": 7464000,
     "name": "Uighur",
     "iso6393": "uig",
-    "udhr": "uig_latn",
-    "script": "Latin"
+    "udhr": "uig_arab",
+    "script": "Arabic"
   },
   {
     "speakers": 7464000,
     "name": "Uighur",
     "iso6393": "uig",
-    "udhr": "uig_arab",
-    "script": "Arabic"
+    "udhr": "uig_latn",
+    "script": "Latin"
   },
   {
     "speakers": 7382000,
@@ -556,14 +556,14 @@
     "speakers": 7000000,
     "name": "Akan",
     "iso6393": "aka",
-    "udhr": "aka_fante",
+    "udhr": "aka_asante",
     "script": "Latin"
   },
   {
     "speakers": 7000000,
     "name": "Akan",
     "iso6393": "aka",
-    "udhr": "aka_asante",
+    "udhr": "aka_fante",
     "script": "Latin"
   },
   {
@@ -675,15 +675,15 @@
     "speakers": 5397500,
     "name": "Turkmen",
     "iso6393": "tuk",
-    "udhr": "tuk_latn",
-    "script": "Latin"
+    "udhr": "tuk_cyrl",
+    "script": "Cyrillic"
   },
   {
     "speakers": 5397500,
     "name": "Turkmen",
     "iso6393": "tuk",
-    "udhr": "tuk_cyrl",
-    "script": "Cyrillic"
+    "udhr": "tuk_latn",
+    "script": "Latin"
   },
   {
     "speakers": 5292000,
@@ -1170,17 +1170,17 @@
   },
   {
     "speakers": 1000000,
-    "name": "Adangme",
-    "iso6393": "ada",
-    "udhr": "ada",
-    "script": "Latin"
-  },
-  {
-    "speakers": 1000000,
     "name": "Assyrian Neo-Aramaic",
     "iso6393": "aii",
     "udhr": "aii",
     "script": "Syriac"
+  },
+  {
+    "speakers": 1000000,
+    "name": "Adangme",
+    "iso6393": "ada",
+    "udhr": "ada",
+    "script": "Latin"
   },
   {
     "speakers": 1000000,
@@ -1222,6 +1222,1126 @@
     "name": "Balkan Romani",
     "iso6393": "rmn",
     "udhr": "rmn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 926000,
+    "name": "Nyamwezi",
+    "iso6393": "nym",
+    "udhr": "nym",
+    "script": "Latin"
+  },
+  {
+    "speakers": 923000,
+    "name": "Susu",
+    "iso6393": "sus",
+    "udhr": "sus",
+    "script": "Latin"
+  },
+  {
+    "speakers": 876409,
+    "name": "Venda",
+    "iso6393": "ven",
+    "udhr": "ven",
+    "script": "Latin"
+  },
+  {
+    "speakers": 868800,
+    "name": "Serer",
+    "iso6393": "srr",
+    "udhr": "srr",
+    "script": "Latin"
+  },
+  {
+    "speakers": 865000,
+    "name": "Khasi",
+    "iso6393": "kha",
+    "udhr": "kha",
+    "script": "Latin"
+  },
+  {
+    "speakers": 820000,
+    "name": "Northern Qiandong Miao",
+    "iso6393": "hea",
+    "udhr": "hea",
+    "script": "Latin"
+  },
+  {
+    "speakers": 808000,
+    "name": "Guinea Kpelle",
+    "iso6393": "gkp",
+    "udhr": "gkp",
+    "script": "Latin"
+  },
+  {
+    "speakers": 747000,
+    "name": "Hani",
+    "iso6393": "hni",
+    "udhr": "hni",
+    "script": "Latin"
+  },
+  {
+    "speakers": 700000,
+    "name": "Yucateco",
+    "iso6393": "yua",
+    "udhr": "yua",
+    "script": "Latin"
+  },
+  {
+    "speakers": 650000,
+    "name": "Fijian",
+    "iso6393": "fij",
+    "udhr": "fij",
+    "script": "Latin"
+  },
+  {
+    "speakers": 600000,
+    "name": "Friulian",
+    "iso6393": "fur",
+    "udhr": "fur",
+    "script": "Latin"
+  },
+  {
+    "speakers": 600000,
+    "name": "Tetum",
+    "iso6393": "tet",
+    "udhr": "tet",
+    "script": "Latin"
+  },
+  {
+    "speakers": 600000,
+    "name": "Walloon",
+    "iso6393": "wln",
+    "udhr": "wln",
+    "script": "Latin"
+  },
+  {
+    "speakers": 588000,
+    "name": "Basque",
+    "iso6393": "eus",
+    "udhr": "eus",
+    "script": "Latin"
+  },
+  {
+    "speakers": 588000,
+    "name": "South Ndebele",
+    "iso6393": "nbl",
+    "udhr": "nbl",
+    "script": "Latin"
+  },
+  {
+    "speakers": 588000,
+    "name": "Ossetian",
+    "iso6393": "oss",
+    "udhr": "oss",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 580000,
+    "name": "Welsh",
+    "iso6393": "cym",
+    "udhr": "cym",
+    "script": "Latin"
+  },
+  {
+    "speakers": 580000,
+    "name": "Upper Guinea Crioulo",
+    "iso6393": "pov",
+    "udhr": "pov",
+    "script": "Latin"
+  },
+  {
+    "speakers": 541750,
+    "name": "Lushai",
+    "iso6393": "lus",
+    "udhr": "lus",
+    "script": "Latin"
+  },
+  {
+    "speakers": 540000,
+    "name": "Dagbani",
+    "iso6393": "dag",
+    "udhr": "dag",
+    "script": "Latin"
+  },
+  {
+    "speakers": 501000,
+    "name": "Southern Dagaare",
+    "iso6393": "dga",
+    "udhr": "dga",
+    "script": "Latin"
+  },
+  {
+    "speakers": 500000,
+    "name": "Breton",
+    "iso6393": "bre",
+    "udhr": "bre",
+    "script": "Latin"
+  },
+  {
+    "speakers": 500000,
+    "name": "Kekchí",
+    "iso6393": "kek",
+    "udhr": "kek",
+    "script": "Latin"
+  },
+  {
+    "speakers": 500000,
+    "name": "Picard",
+    "iso6393": "pcd",
+    "udhr": "pcd",
+    "script": "Latin"
+  },
+  {
+    "speakers": 500000,
+    "name": "Romansh",
+    "iso6393": "roh",
+    "udhr": "roh",
+    "script": "Latin"
+  },
+  {
+    "speakers": 480000,
+    "name": "Bari",
+    "iso6393": "bfa",
+    "udhr": "bfa",
+    "script": "Latin"
+  },
+  {
+    "speakers": 480000,
+    "name": "Krio",
+    "iso6393": "kri",
+    "udhr": "kri",
+    "script": "Latin"
+  },
+  {
+    "speakers": 446264,
+    "name": "Haka Chin",
+    "iso6393": "cnh",
+    "udhr": "cnh",
+    "script": "Latin"
+  },
+  {
+    "speakers": 440000,
+    "name": "Mapudungun",
+    "iso6393": "arn",
+    "udhr": "arn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 400000,
+    "name": "Baatonum",
+    "iso6393": "bba",
+    "udhr": "bba",
+    "script": "Latin"
+  },
+  {
+    "speakers": 393943,
+    "name": "Kabuverdianu",
+    "iso6393": "kea",
+    "udhr": "kea",
+    "script": "Latin"
+  },
+  {
+    "speakers": 363000,
+    "name": "Yakut",
+    "iso6393": "sah",
+    "udhr": "sah",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 362000,
+    "name": "Samoan",
+    "iso6393": "smo",
+    "udhr": "smo",
+    "script": "Latin"
+  },
+  {
+    "speakers": 361709,
+    "name": "Konzo",
+    "iso6393": "koo",
+    "udhr": "koo",
+    "script": "Latin"
+  },
+  {
+    "speakers": 352500,
+    "name": "Nzima",
+    "iso6393": "nzi",
+    "udhr": "nzi",
+    "script": "Latin"
+  },
+  {
+    "speakers": 350000,
+    "name": "Central Mazahua",
+    "iso6393": "maz",
+    "udhr": "maz",
+    "script": "Latin"
+  },
+  {
+    "speakers": 350000,
+    "name": "Pijin",
+    "iso6393": "pis",
+    "udhr": "pis",
+    "script": "Latin"
+  },
+  {
+    "speakers": 344100,
+    "name": "Tedim Chin",
+    "iso6393": "ctd",
+    "udhr": "ctd",
+    "script": "Latin"
+  },
+  {
+    "speakers": 341000,
+    "name": "Corsican",
+    "iso6393": "cos",
+    "udhr": "cos",
+    "script": "Latin"
+  },
+  {
+    "speakers": 335518,
+    "name": "Luxembourgish",
+    "iso6393": "ltz",
+    "udhr": "ltz",
+    "script": "Latin"
+  },
+  {
+    "speakers": 335000,
+    "name": "West-Central Limba",
+    "iso6393": "lia",
+    "udhr": "lia",
+    "script": "Latin"
+  },
+  {
+    "speakers": 330000,
+    "name": "Maltese",
+    "iso6393": "mlt",
+    "udhr": "mlt",
+    "script": "Latin"
+  },
+  {
+    "speakers": 327000,
+    "name": "Mina (Cameroon)",
+    "iso6393": "hna",
+    "udhr": "hna",
+    "script": "Latin"
+  },
+  {
+    "speakers": 305000,
+    "name": "Wayuu",
+    "iso6393": "guc",
+    "udhr": "guc",
+    "script": "Latin"
+  },
+  {
+    "speakers": 300000,
+    "name": "K'iche'",
+    "iso6393": "quc",
+    "udhr": "quc",
+    "script": "Latin"
+  },
+  {
+    "speakers": 300000,
+    "name": "Huaylas Ancash Quechua",
+    "iso6393": "qwh",
+    "udhr": "qwh",
+    "script": "Latin"
+  },
+  {
+    "speakers": 287000,
+    "name": "Dhivehi",
+    "iso6393": "div",
+    "udhr": "div",
+    "script": "Thaana"
+  },
+  {
+    "speakers": 282845,
+    "name": "Icelandic",
+    "iso6393": "isl",
+    "udhr": "isl",
+    "script": "Latin"
+  },
+  {
+    "speakers": 276000,
+    "name": "Kaonde",
+    "iso6393": "kqn",
+    "udhr": "kqn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 260000,
+    "name": "Jola-Fonyi",
+    "iso6393": "dyo",
+    "udhr": "dyo",
+    "script": "Latin"
+  },
+  {
+    "speakers": 260000,
+    "name": "Irish",
+    "iso6393": "gle",
+    "udhr": "gle",
+    "script": "Latin"
+  },
+  {
+    "speakers": 250000,
+    "name": "Gonja",
+    "iso6393": "gjn",
+    "udhr": "gjn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 232000,
+    "name": "Ao Naga",
+    "iso6393": "njo",
+    "udhr": "njo",
+    "script": "Latin"
+  },
+  {
+    "speakers": 200000,
+    "name": "Mezquital Otomi",
+    "iso6393": "ote",
+    "udhr": "ote",
+    "script": "Latin"
+  },
+  {
+    "speakers": 200000,
+    "name": "Northern Conchucos Ancash Quechua",
+    "iso6393": "qxn",
+    "udhr": "qxn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 200000,
+    "name": "Tuvinian",
+    "iso6393": "tyv",
+    "udhr": "tyv",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 200000,
+    "name": "Kasem",
+    "iso6393": "xsm",
+    "udhr": "xsm",
+    "script": "Latin"
+  },
+  {
+    "speakers": 198000,
+    "name": "Gagauz",
+    "iso6393": "gag",
+    "udhr": "gag",
+    "script": "Latin"
+  },
+  {
+    "speakers": 194433,
+    "name": "Sanskrit",
+    "iso6393": "san",
+    "udhr": "san",
+    "script": "Devanagari"
+  },
+  {
+    "speakers": 175000,
+    "name": "Shilluk",
+    "iso6393": "shk",
+    "udhr": "shk",
+    "script": "Latin"
+  },
+  {
+    "speakers": 172000,
+    "name": "Nyemba",
+    "iso6393": "nba",
+    "udhr": "nba",
+    "script": "Latin"
+  },
+  {
+    "speakers": 160000,
+    "name": "Mískito",
+    "iso6393": "miq",
+    "udhr": "miq",
+    "script": "Latin"
+  },
+  {
+    "speakers": 157000,
+    "name": "Mam",
+    "iso6393": "mam",
+    "udhr": "mam",
+    "script": "Latin"
+  },
+  {
+    "speakers": 150000,
+    "name": "Huastec",
+    "iso6393": "hus",
+    "udhr": "hus",
+    "script": "Latin"
+  },
+  {
+    "speakers": 150000,
+    "name": "Tahitian",
+    "iso6393": "tah",
+    "udhr": "tah",
+    "script": "Latin"
+  },
+  {
+    "speakers": 148530,
+    "name": "Navajo",
+    "iso6393": "nav",
+    "udhr": "nav",
+    "script": "Latin"
+  },
+  {
+    "speakers": 135000,
+    "name": "Otuho",
+    "iso6393": "lot",
+    "udhr": "lot",
+    "script": "Latin"
+  },
+  {
+    "speakers": 132200,
+    "name": "Kaqchikel",
+    "iso6393": "cak",
+    "udhr": "cak",
+    "script": "Latin"
+  },
+  {
+    "speakers": 125000,
+    "name": "Lamnso'",
+    "iso6393": "lns",
+    "udhr": "lns",
+    "script": "Latin"
+  },
+  {
+    "speakers": 123000,
+    "name": "Tonga (Tonga Islands)",
+    "iso6393": "ton",
+    "udhr": "ton",
+    "script": "Latin"
+  },
+  {
+    "speakers": 120000,
+    "name": "Ladino",
+    "iso6393": "lad",
+    "udhr": "lad",
+    "script": "Latin"
+  },
+  {
+    "speakers": 120000,
+    "name": "Ditammari",
+    "iso6393": "tbz",
+    "udhr": "tbz",
+    "script": "Latin"
+  },
+  {
+    "speakers": 119500,
+    "name": "Vai",
+    "iso6393": "vai",
+    "udhr": "vai",
+    "script": "Vai"
+  },
+  {
+    "speakers": 105000,
+    "name": "Abkhazian",
+    "iso6393": "abk",
+    "udhr": "abk",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 100000,
+    "name": "Asturian",
+    "iso6393": "ast",
+    "udhr": "ast",
+    "script": "Latin"
+  },
+  {
+    "speakers": 100000,
+    "name": "Purepecha",
+    "iso6393": "tsz",
+    "udhr": "tsz",
+    "script": "Latin"
+  },
+  {
+    "speakers": 94500,
+    "name": "Garifuna",
+    "iso6393": "cab",
+    "udhr": "cab",
+    "script": "Latin"
+  },
+  {
+    "speakers": 80000,
+    "name": "Karelian",
+    "iso6393": "krl",
+    "udhr": "krl",
+    "script": "Latin"
+  },
+  {
+    "speakers": 80000,
+    "name": "Papantla Totonac",
+    "iso6393": "top",
+    "udhr": "top",
+    "script": "Latin"
+  },
+  {
+    "speakers": 80000,
+    "name": "Miahuatlán Zapotec",
+    "iso6393": "zam",
+    "udhr": "zam",
+    "script": "Latin"
+  },
+  {
+    "speakers": 78000,
+    "name": "Chamorro",
+    "iso6393": "cha",
+    "udhr": "cha",
+    "script": "Latin"
+  },
+  {
+    "speakers": 72700,
+    "name": "Seselwa Creole French",
+    "iso6393": "crs",
+    "udhr": "crs",
+    "script": "Latin"
+  },
+  {
+    "speakers": 72000,
+    "name": "Dendi (Benin)",
+    "iso6393": "ddn",
+    "udhr": "ddn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 71841,
+    "name": "Lozi",
+    "iso6393": "loz",
+    "udhr": "loz",
+    "script": "Latin"
+  },
+  {
+    "speakers": 70000,
+    "name": "Upper Sorbian",
+    "iso6393": "hsb",
+    "udhr": "hsb",
+    "script": "Latin"
+  },
+  {
+    "speakers": 70000,
+    "name": "Maori",
+    "iso6393": "mri",
+    "udhr": "mri",
+    "script": "Latin"
+  },
+  {
+    "speakers": 68487,
+    "name": "Páez",
+    "iso6393": "pbb",
+    "udhr": "pbb",
+    "script": "Latin"
+  },
+  {
+    "speakers": 68000,
+    "name": "Southern Altai",
+    "iso6393": "alt",
+    "udhr": "alt",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 65000,
+    "name": "Metlatónoc Mixtec",
+    "iso6393": "mxv",
+    "udhr": "mxv",
+    "script": "Latin"
+  },
+  {
+    "speakers": 65000,
+    "name": "Ambo-Pasco Quechua",
+    "iso6393": "qva",
+    "udhr": "qva",
+    "script": "Latin"
+  },
+  {
+    "speakers": 63653,
+    "name": "Scottish Gaelic",
+    "iso6393": "gla",
+    "udhr": "gla",
+    "script": "Latin"
+  },
+  {
+    "speakers": 60000,
+    "name": "Swampy Cree",
+    "iso6393": "csw",
+    "udhr": "csw",
+    "script": "Canadian_Aboriginal"
+  },
+  {
+    "speakers": 60000,
+    "name": "Khakas",
+    "iso6393": "kjh",
+    "udhr": "kjh",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 55000,
+    "name": "Margos-Yarowilca-Lauricocha Quechua",
+    "iso6393": "qvm",
+    "udhr": "qvm",
+    "script": "Latin"
+  },
+  {
+    "speakers": 47000,
+    "name": "Faroese",
+    "iso6393": "fao",
+    "udhr": "fao",
+    "script": "Latin"
+  },
+  {
+    "speakers": 47000,
+    "name": "Kalaallisut",
+    "iso6393": "kal",
+    "udhr": "kal",
+    "script": "Latin"
+  },
+  {
+    "speakers": 45000,
+    "name": "Chuukese",
+    "iso6393": "chk",
+    "udhr": "chk",
+    "script": "Latin"
+  },
+  {
+    "speakers": 45000,
+    "name": "Asháninka",
+    "iso6393": "cni",
+    "udhr": "cni",
+    "script": "Latin"
+  },
+  {
+    "speakers": 43900,
+    "name": "Marshallese",
+    "iso6393": "mah",
+    "udhr": "mah",
+    "script": "Latin"
+  },
+  {
+    "speakers": 43000,
+    "name": "Rarotongan",
+    "iso6393": "rar",
+    "udhr": "rar",
+    "script": "Latin"
+  },
+  {
+    "speakers": 40000,
+    "name": "Evenki",
+    "iso6393": "evn",
+    "udhr": "evn",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 40000,
+    "name": "North Junín Quechua",
+    "iso6393": "qvn",
+    "udhr": "qvn",
+    "script": "Latin"
+  },
+  {
+    "speakers": 40000,
+    "name": "Waama",
+    "iso6393": "wwa",
+    "udhr": "wwa",
+    "script": "Latin"
+  },
+  {
+    "speakers": 38000,
+    "name": "Huamalíes-Dos de Mayo Huánuco Quechua",
+    "iso6393": "qvh",
+    "udhr": "qvh",
+    "script": "Latin"
+  },
+  {
+    "speakers": 36000,
+    "name": "Tojolabal",
+    "iso6393": "toj",
+    "udhr": "toj",
+    "script": "Latin"
+  },
+  {
+    "speakers": 35800,
+    "name": "Luvale",
+    "iso6393": "lue",
+    "udhr": "lue",
+    "script": "Latin"
+  },
+  {
+    "speakers": 35000,
+    "name": "Shuar",
+    "iso6393": "jiv",
+    "udhr": "jiv",
+    "script": "Latin"
+  },
+  {
+    "speakers": 35000,
+    "name": "Northwestern Ojibwa",
+    "iso6393": "ojb",
+    "udhr": "ojb",
+    "script": "Canadian_Aboriginal"
+  },
+  {
+    "speakers": 35000,
+    "name": "Cajamarca Quechua",
+    "iso6393": "qvc",
+    "udhr": "qvc",
+    "script": "Latin"
+  },
+  {
+    "speakers": 30000,
+    "name": "Matu Chin",
+    "iso6393": "hlt",
+    "udhr": "hlt",
+    "script": "Latin"
+  },
+  {
+    "speakers": 30000,
+    "name": "Calderón Highland Quichua",
+    "iso6393": "qud",
+    "udhr": "qud",
+    "script": "Latin"
+  },
+  {
+    "speakers": 27700,
+    "name": "Pohnpeian",
+    "iso6393": "pon",
+    "udhr": "pon",
+    "script": "Latin"
+  },
+  {
+    "speakers": 27500,
+    "name": "Aguaruna",
+    "iso6393": "agr",
+    "udhr": "agr",
+    "script": "Latin"
+  },
+  {
+    "speakers": 25000,
+    "name": "Chiquián Ancash Quechua",
+    "iso6393": "qxa",
+    "udhr": "qxa",
+    "script": "Latin"
+  },
+  {
+    "speakers": 25000,
+    "name": "Ticuna",
+    "iso6393": "tca",
+    "udhr": "tca",
+    "script": "Latin"
+  },
+  {
+    "speakers": 22000,
+    "name": "Ojitlán Chinantec",
+    "iso6393": "chj",
+    "udhr": "chj",
+    "script": "Latin"
+  },
+  {
+    "speakers": 21500,
+    "name": "Eastern Canadian Inuktitut",
+    "iso6393": "ike",
+    "udhr": "ike",
+    "script": "Canadian_Aboriginal"
+  },
+  {
+    "speakers": 21000,
+    "name": "Awa-Cuaiquer",
+    "iso6393": "kwi",
+    "udhr": "kwi",
+    "script": "Latin"
+  },
+  {
+    "speakers": 20112,
+    "name": "Romagnol",
+    "iso6393": "rgn",
+    "udhr": "eml",
+    "script": "Latin"
+  },
+  {
+    "speakers": 20000,
+    "name": "Toba",
+    "iso6393": "tob",
+    "udhr": "tob",
+    "script": "Latin"
+  },
+  {
+    "speakers": 17640,
+    "name": "Yanomamö",
+    "iso6393": "guu",
+    "udhr": "guu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 16000,
+    "name": "Arequipa-La Unión Quechua",
+    "iso6393": "qxu",
+    "udhr": "qxu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 15000,
+    "name": "Palauan",
+    "iso6393": "pau",
+    "udhr": "pau",
+    "script": "Latin"
+  },
+  {
+    "speakers": 15000,
+    "name": "Shipibo-Conibo",
+    "iso6393": "shp",
+    "udhr": "shp",
+    "script": "Latin"
+  },
+  {
+    "speakers": 12000,
+    "name": "Paraguayan Guaraní",
+    "iso6393": "gug",
+    "udhr": "gug",
+    "script": "Latin"
+  },
+  {
+    "speakers": 11000,
+    "name": "Ixcatlán Mazatec",
+    "iso6393": "mzi",
+    "udhr": "mzi",
+    "script": "Latin"
+  },
+  {
+    "speakers": 10000,
+    "name": "Shor",
+    "iso6393": "cjs",
+    "udhr": "cjs",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 8100,
+    "name": "Mi'kmaq",
+    "iso6393": "mic",
+    "udhr": "mic",
+    "script": "Latin"
+  },
+  {
+    "speakers": 8000,
+    "name": "Hawaiian",
+    "iso6393": "haw",
+    "udhr": "haw",
+    "script": "Latin"
+  },
+  {
+    "speakers": 7170,
+    "name": "Even",
+    "iso6393": "eve",
+    "udhr": "eve",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 6592,
+    "name": "Yapese",
+    "iso6393": "yap",
+    "udhr": "yap",
+    "script": "Latin"
+  },
+  {
+    "speakers": 6000,
+    "name": "Yanesha'",
+    "iso6393": "ame",
+    "udhr": "ame",
+    "script": "Latin"
+  },
+  {
+    "speakers": 6000,
+    "name": "Chayahuita",
+    "iso6393": "cbt",
+    "udhr": "cbt",
+    "script": "Latin"
+  },
+  {
+    "speakers": 5933,
+    "name": "Guarayu",
+    "iso6393": "gyr",
+    "udhr": "gyr",
+    "script": "Latin"
+  },
+  {
+    "speakers": 5800,
+    "name": "Veps",
+    "iso6393": "vep",
+    "udhr": "vep",
+    "script": "Latin"
+  },
+  {
+    "speakers": 5000,
+    "name": "Pichis Ashéninka",
+    "iso6393": "cpu",
+    "udhr": "cpu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 4500,
+    "name": "Achuar-Shiwiar",
+    "iso6393": "acu",
+    "udhr": "acu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 4000,
+    "name": "Nomatsiguenga",
+    "iso6393": "not",
+    "udhr": "not",
+    "script": "Latin"
+  },
+  {
+    "speakers": 4000,
+    "name": "Northern Sami",
+    "iso6393": "sme",
+    "udhr": "sme",
+    "script": "Latin"
+  },
+  {
+    "speakers": 4000,
+    "name": "Yagua",
+    "iso6393": "yad",
+    "udhr": "yad",
+    "script": "Latin"
+  },
+  {
+    "speakers": 3500,
+    "name": "Urarina",
+    "iso6393": "ura",
+    "udhr": "ura",
+    "script": "Latin"
+  },
+  {
+    "speakers": 3000,
+    "name": "Candoshi-Shapra",
+    "iso6393": "cbu",
+    "udhr": "cbu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 2900,
+    "name": "Murui Huitoto",
+    "iso6393": "huu",
+    "udhr": "huu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 2300,
+    "name": "Colorado",
+    "iso6393": "cof",
+    "udhr": "cof",
+    "script": "Latin"
+  },
+  {
+    "speakers": 2000,
+    "name": "Bora",
+    "iso6393": "boa",
+    "udhr": "boa",
+    "script": "Latin"
+  },
+  {
+    "speakers": 2000,
+    "name": "Güilá Zapotec",
+    "iso6393": "ztu",
+    "udhr": "ztu",
+    "script": "Latin"
+  },
+  {
+    "speakers": 1500,
+    "name": "Cashibo-Cacataibo",
+    "iso6393": "cbr",
+    "udhr": "cbr",
+    "script": "Latin"
+  },
+  {
+    "speakers": 1280,
+    "name": "Matsés",
+    "iso6393": "mcf",
+    "udhr": "mcf",
+    "script": "Latin"
+  },
+  {
+    "speakers": 1200,
+    "name": "Bislama",
+    "iso6393": "bis",
+    "udhr": "bis",
+    "script": "Latin"
+  },
+  {
+    "speakers": 1100,
+    "name": "Northern Yukaghir",
+    "iso6393": "ykg",
+    "udhr": "ykg",
+    "script": "Cyrillic"
+  },
+  {
+    "speakers": 1000,
+    "name": "Chiltepec Chinantec",
+    "iso6393": "csa",
+    "udhr": "csa",
+    "script": "Latin"
+  },
+  {
+    "speakers": 1000,
+    "name": "Chickasaw",
+    "iso6393": "cic",
+    "udhr": "cic",
+    "script": "Latin"
+  },
+  {
+    "speakers": 950,
+    "name": "Sharanahua",
+    "iso6393": "mcd",
+    "udhr": "mcd",
+    "script": "Latin"
+  },
+  {
+    "speakers": 720,
+    "name": "Amahuaca",
+    "iso6393": "amc",
+    "udhr": "amc",
+    "script": "Latin"
+  },
+  {
+    "speakers": 500,
+    "name": "Amarakaeri",
+    "iso6393": "amr",
+    "udhr": "amr",
+    "script": "Latin"
+  },
+  {
+    "speakers": 300,
+    "name": "Caquinte",
+    "iso6393": "cot",
+    "udhr": "cot",
+    "script": "Latin"
+  },
+  {
+    "speakers": 200,
+    "name": "Aja (Benin)",
+    "iso6393": "ajg",
+    "udhr": "ajg",
+    "script": "Latin"
+  },
+  {
+    "speakers": 150,
+    "name": "Arabela",
+    "iso6393": "arl",
+    "udhr": "arl",
+    "script": "Latin"
+  },
+  {
+    "speakers": 20,
+    "name": "Pipil",
+    "iso6393": "ppl",
+    "udhr": "ppl",
+    "script": "Latin"
+  },
+  {
+    "speakers": 0,
+    "name": "Mozarabic",
+    "iso6393": "mxi",
+    "udhr": "mxi",
     "script": "Latin"
   }
 ]
